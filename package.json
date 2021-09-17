@@ -1,0 +1,24 @@
+{
+  "name": "dart-sass",
+  "version": "1.0.0",
+  "description": "this middleware converts scss files to css file from src to dest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizzenalum/sass-dart-middleware.git"
+  },
+  "keywords": [
+    "dart-sass-middleware",
+    "scss-to-css",
+    "scss to css for express"
+  ],
+  "author": "ghanshyam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizzenalum/sass-dart-middleware/issues"
+  },
+  "homepage": "https://github.com/wizzenalum/sass-dart-middleware#readme"
+}
